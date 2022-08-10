@@ -1,0 +1,24 @@
+2022-08-08 14:58:13	-	cheeky_watson	-	bf2ccfca694e11ce9a2c49f06d8a6c4a	2f4a2219-71c8-43fd-bbd1-c8d7c760c1bc	nextflow nextflow.nf
+2022-08-08 15:00:28	-	soggy_fermi	-	0d192764d637b9f1b570de990b2576b2	785db1b1-79e1-4334-a140-62fffa386b75	nextflow nextflow.nf --stability_path=/Users/shivaaryal/Downloads/my_mothur_flow/stability.files
+2022-08-08 15:00:55	-	condescending_curie	-	05e7eaa725f44c99a87f619bc200b9a3	fc3ad710-1905-4721-a4ba-2fc62e318b32	nextflow nextflow.nf --stability_path=/Users/shivaaryal/Downloads/my_mothur_flow/stability.files
+2022-08-08 15:01:44	51.8s	deadly_stonebraker	ERR	9c575039aa7d4bda6767da32be33c7f2	862a6cd3-b134-4827-bfab-8accbe9f77a5	nextflow nextflow.nf --stability_path=/Users/shivaaryal/Downloads/my_mothur_flow/stability.files
+2022-08-08 15:03:47	3.8s	clever_mirzakhani	ERR	c01000632c127b26c80fe8d89eefbb9b	43f86666-c0e2-4cd9-88d2-381918d92f1d	nextflow nextflow.nf --stability_path=/Users/shivaaryal/Downloads/my_mothur_flow/stability.files
+2022-08-08 15:04:54	1.7s	big_fermi	ERR	8e9ab186475d853b63736e130b1bbbce	7bff5fe2-6939-416d-8728-15e126708c9e	nextflow nextflow.nf --stability_path=/Users/shivaaryal/Downloads/my_mothur_flow/stability.files
+2022-08-08 15:06:16	46.3s	dreamy_waddington	OK	0f575f77f9d668059ebd7cb561eb776e	360d512c-6ced-4879-8b4e-e0560198428d	nextflow nextflow.nf
+2022-08-08 15:07:12	5.3s	elated_dubinsky	ERR	635677e05ea552df3ae77b12815519d2	708a830e-93f1-43b2-a4ac-db07e0aa33aa	nextflow nextflow.nf
+2022-08-08 15:09:22	4.7s	thirsty_chandrasekhar	OK	9bcc82ed5e8c8bbfc3e4d637098da7bc	549a3ed6-5cad-4c93-9e99-efa19fbace9a	nextflow nextflow.nf
+2022-08-08 15:10:28	48.9s	thirsty_galileo	OK	442ffe8ddca3e162ae8ed22a04b3363a	916e4a6c-2734-46fc-ba78-985d7d7745ff	nextflow nextflow.nf
+2022-08-08 15:12:46	-	dreamy_noether	-	67b27ff9b278a733e38421e508f0cda5	0faaefbe-0d4f-409c-bb9c-f52d162d02c7	nextflow nextflow.nf
+2022-08-08 15:13:07	50.5s	small_brown	ERR	2f76286aca3106bcffca94643686d365	da61c39a-f8d0-4d14-8cbe-1a37394ecca4	nextflow nextflow.nf
+2022-08-08 15:16:53	53s	marvelous_feynman	OK	2f76286aca3106bcffca94643686d365	16c71b97-d544-479f-8fe9-c9638656660d	nextflow nextflow.nf
+2022-08-08 15:19:16	53.4s	big_sammet	OK	193b307be57957fb54ea9c9c833a03be	602c1496-4339-41d4-b5ec-42f10723a7b3	nextflow nextflow.nf --stability_path=stability.files
+2022-08-08 15:22:18	1.6s	zen_hopper	ERR	193b307be57957fb54ea9c9c833a03be	bc47a21f-b7c1-45d2-a18c-c47b63e86ac9	nextflow run nextflow.nf -with-docker my_sample_nf_image
+2022-08-08 15:23:48	4.9s	modest_bernard	ERR	193b307be57957fb54ea9c9c833a03be	953962ca-774f-4d06-9cd5-906279685c33	nextflow run nextflow.nf -with-docker my_sample_nf_image --stability_path=stability.files
+2022-08-08 15:43:27	55.9s	tiny_cori	OK	193b307be57957fb54ea9c9c833a03be	ce685691-983b-474e-8923-087ec0fd4738	nextflow nextflow.nf --stability_path=stability.files -with-report -with-trace
+2022-08-08 15:45:41	-	hopeful_bell	-	193b307be57957fb54ea9c9c833a03be	bfbf9744-1bda-4923-8c36-0a119d7ad234	nextflow nextflow.nf --stability_path=stability.files -with-report -with-trace -with-timeline
+2022-08-08 15:46:21	57.2s	pedantic_dijkstra	OK	193b307be57957fb54ea9c9c833a03be	79efe041-a161-4b62-af10-747a8ee2fcf5	nextflow nextflow.nf --stability_path=stability.files -with-report -with-trace -with-timeline -with-dag dag.png
+2022-08-08 16:25:08	1m 7s	kickass_golick	OK	193b307be57957fb54ea9c9c833a03be	d83b9712-9ed1-4caa-9daa-5dbc44a5d420	nextflow nextflow.nf --stability_path=stability.files -with-report -with-trace -with-timeline -with-dag dag.png
+2022-08-10 12:38:32	6.2s	fabulous_bhaskara	ERR	99df7d2f085a33da533b295944cc1c9c	3ed6fc29-b515-43d9-bf9e-cc8cea541405	nextflow run nextflow.nf -with-docker mothur_image
+2022-08-10 12:40:32	2.4s	tiny_einstein	ERR	99df7d2f085a33da533b295944cc1c9c	ad5ea210-b241-445e-8f7c-232f064c78a9	nextflow run nextflow.nf
+2022-08-10 12:42:04	1.6s	backstabbing_meitner	ERR	99df7d2f085a33da533b295944cc1c9c	378c531a-a6be-4a8b-addc-5ef1fa2b78db	nextflow run nextflow.nf --platform=linux/amd64
+2022-08-10 12:45:48	2.3s	silly_rubens	ERR	99df7d2f085a33da533b295944cc1c9c	51fae576-1c2f-4b8b-976b-48a573c2c449	nextflow run nextflow.nf

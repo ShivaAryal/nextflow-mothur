@@ -1,0 +1,4 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	cb/d0e593	49834	reduceSequencingPCRErrors (1)	COMPLETED	0	2022-08-08 16:25:09.465	55.5s	55s	-	-	-	-	-
+2	3e/f8f4b5	49953	processImprovedSequences1 (1)	COMPLETED	0	2022-08-08 16:26:04.978	4.2s	4s	-	-	-	-	-
+3	b3/0917e8	49986	processImprovedSequences2 (1)	COMPLETED	0	2022-08-08 16:26:09.230	4.2s	4s	-	-	-	-	-
